@@ -17,7 +17,7 @@ Consegna a fine corso degli esercizi, sulla piattaforma GitHub, come pagina html
 La visione de filmati storici verrà svolta in gruppo (ca. 1.5h per lezione). Viene prevista una critica collettiva e discussione analitica. Gli esercizi potranno essere svolti in classe. Per la critica agli esercizi si prevedono incontri in piccoli gruppi o con tutta la classe.
 
 ## Valutazione 
-I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (“realizzazione”). 
+Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (“realizzazione”). 
 
 ## Risorse
 
@@ -37,5 +37,34 @@ I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (
 ² Lezioni video
 
 ## Link ai progetti
-- Alice	https://github.com/
-- Bob	https://github.com/	
+- Aktas Tuana https://github.com/ 
+- Baggi Alice
+- Balinzo Giada
+- Belli Nahele Armando Bruno
+- Bionda Alissa
+- Borges Pinheiro Gabriel
+- Broggini Melissa
+- Calì Yanis
+- Ceppi Claudio
+- Chicherio Michelle
+- De Gennaro Carla
+- Del Rosso Allegra Maria Cristina
+- Esposito Albina
+- Falcone Daniele
+- Guante Henriquez Elisabeth
+- Hess Lorenzo
+- Jean-Richard Sophie
+- Lopopolo Greta
+- Maghetti Simone
+- Massarotti Emma
+- Mazzola Luca
+- Mu Debora
+- Pantani Laura
+- Pini Elisa
+- Previtali Lara
+- Ribeiro Marques Sofia
+- Riva Gregorio
+- Salmina Arroyo Deborah Mersedes
+- Vigizzi Sira
+- Vosti Riccardo
+- Zemp Martina

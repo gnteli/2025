@@ -10,8 +10,8 @@ Filmografia, letture ed esercizi
 4. Motion capture
 
 #### Esempi di motion capture  
-1. [Bio Motion Lab (corpo umano)](https://www.biomotionlab.ca/html5-bml-walker/)  
-2. [p1 200 (piccione)](https://www.biomotionlab.ca/older-projects/)  
+1. [Bio Motion Lab](https://www.biomotionlab.ca/html5-bml-walker/)  
+2. [p1 200](https://www.biomotionlab.ca/wp-content/uploads/2016/01/p1_200.gif)  
 
 #### [Phenakistiscopio](https://it.wikipedia.org/wiki/Fenachistoscopio) (1833)  
 #### [Zoetrope](https://it.wikipedia.org/wiki/Zootropio) (1833)  
