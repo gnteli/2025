@@ -4,7 +4,7 @@ CV224.03
 
 
 ## Obiettivi 
-Il corso introduce brevemente le nozioni di tecniche di animazione dell’immagine in movimento: stop-motion, keyframing, procedurale, interattiva e motion-capture.  
+Il corso introduce brevemente le nozioni di tecniche di animazione dell’immagine in movimento: stop-motion, keyframing, procedurale, interattiva e motion-capture.   
 Attraverso la visione di filmati storici e contemporanei verrà offerto un ventaglio di esempi e di filmati d’autore nel campo dell’arte e del-la comunicazione; l’obiettivo è quello di sensibilizzare gli studenti sul movimento, inteso come forma. Il fine ultimo del corso è quello di far acquisire i rudimenti di un metodo per progettare con le immagini e la grafica, esteso alla dimensione temporale. Verranno inoltre introdotte alcune nozioni di programmazione con accento sulla cinematica.  
 
 ## Modalità didattica 
