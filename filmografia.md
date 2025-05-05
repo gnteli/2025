@@ -54,6 +54,7 @@ Filmografia, letture ed esercizi
 - [Female](https://www.youtube.com/watch?v=3atjsVqFlhs), 1995
 
 #### Ray & Charles Eames  
+- [Kaleidoscope Jazz Chair](https://www.youtube.com/watch?v=6qLOuikpJcg), 1960
 - [The Powers of ten](https://www.youtube.com/watch?v=0fKBhvDjuy0&t=1s), 1977  
 - [A rough sketch](https://www.youtube.com/watch?v=7f5x_dRKIF4&t=2s), pre 1977?  
 - [Atlas: A Sketch Of The Rise And Fall Of The Roman Empire](https://www.youtube.com/watch?v=dJWke49jyic), 1976  
