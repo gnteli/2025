@@ -40,21 +40,21 @@ Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico
 - [Aktas Tuana](https://github.com/Tuana-Aktas/gim)
 - [Baggi Alice](https://github.com/alicebaggi/GIM)
 - [Balinzo Giada](https://github.com/giada-balinzo/gim)
-- Belli Nahele Armando Bruno
+- [Belli Nahele Armando Bruno](https://github.com/Naheleee/GIM)
 - [Bionda Alissa](https://github.com/Ali-0032/gim)
-- Borges Pinheiro Gabriel
+- [Borges Pinheiro Gabriel](https://github.com/Gabri-200300)
 - [Broggini Melissa](https://github.com/melissabroggini/gim)
 - [Calì Yanis](https://github.com/Nysaai/gim)
-- Ceppi Claudio
+- [Ceppi Claudio](https://github.com/Claudio-Ceppi/gim)
 - Chicherio Michelle
-- De Gennaro Carla
+- [De Gennaro Carla](https://github.com/carladegennaro/gim)
 - [Del Rosso Allegra Maria Cristina](https://github.com/AllegraDR/gim)
 - Esposito Albina
 - [Falcone Daniele](https://github.com/Dadiccs/gim)
 - [Guante Henriquez Elisabeth](https://github.com/gnteli/gim)
 - [Hess Lorenzo](https://github.com/l0renz0hess/gim)
 - [Jean-Richard Sophie](https://github.com/AstroPengu/gim)
-- Lopopolo Greta
+- [Lopopolo Greta](https://github.com/gretalopopolo/gim)
 - [Maghetti Simone](https://github.com/simonemaghetti)
 - Massarotti Emma
 - [Mazzola Luca](https://github.com/LucaMazzolaa/gim)
