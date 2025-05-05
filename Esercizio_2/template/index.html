@@ -4,7 +4,6 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Multiplane Camera</title>
-
 		<style>
 			body {
 				margin: 0;
@@ -34,7 +33,6 @@
 			.layer img {
 				width: 100%;
 			}
-
 		</style>
 	</head>
 	<body>
@@ -50,8 +48,8 @@
 		<script>
 			document.body.addEventListener('mousemove', (e) => {
 				const container = document.getElementById('container');
-				const x = (e.clientX - window.innerWidth / 2) / window.innerWidth * Math.PI
-				const y = -(e.clientY - window.innerHeight / 2) / window.innerHeight * Math.PI
+				const x = (e.clientX - window.innerWidth / 2) / window.innerWidth * Math.PI * 0.75
+				const y = -(e.clientY - window.innerHeight / 2) / window.innerHeight * Math.PI * 0.75
 				container.style.transform = "rotateX(" + y + "rad) rotateY(" + x + "rad)"
 			})
 		</script>
