@@ -72,6 +72,8 @@ Filmografia, letture ed esercizi
 - [Ornamental Sound Animation](https://www.youtube.com/watch?v=8EGFPZdiVqI), 1930  
 
 #### Martin Arnold  
+- [Pièce Touchée](https://archive.org/details/piece-touchee-1989-by-martin-arnold_202401), 1989
+- [Alone. Life Wastes Andy Hardy](https://www.dailymotion.com/video/x306y9v), 1989
 - [Passage à l'acte](https://vimeo.com/398345542), 1993  
 
 ## 3. Il mondo surreale  
