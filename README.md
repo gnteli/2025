@@ -37,34 +37,34 @@ Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico
 ² Lezioni video
 
 ## Link ai progetti
-- Aktas Tuana https://github.com/Tuana-Aktas/gim
-- Baggi Alice https://github.com/alicebaggi/GIM
-- Balinzo Giada https://github.com/giada-balinzo/gim
+- [Aktas Tuana](https://github.com/Tuana-Aktas/gim)
+- [Baggi Alice](https://github.com/alicebaggi/GIM)
+- [Balinzo Giada](https://github.com/giada-balinzo/gim)
 - Belli Nahele Armando Bruno
-- Bionda Alissa https://github.com/Ali-0032/gim
+- [Bionda Alissa](https://github.com/Ali-0032/gim)
 - Borges Pinheiro Gabriel
-- Broggini Melissa https://github.com/melissabroggini/gim
-- Calì Yanis https://github.com/Nysaai/gim
-- Ceppi Claudio 
+- [Broggini Melissa](https://github.com/melissabroggini/gim)
+- [Calì Yanis](https://github.com/Nysaai/gim)
+- Ceppi Claudio
 - Chicherio Michelle
 - De Gennaro Carla
-- Del Rosso Allegra Maria Cristina https://github.com/AllegraDR/gim
+- [Del Rosso Allegra Maria Cristina](https://github.com/AllegraDR/gim)
 - Esposito Albina
-- Falcone Daniele https://github.com/Dadiccs/gim
-- Guante Henriquez Elisabeth https://github.com/gnteli/gim
-- Hess Lorenzo https://github.com/l0renz0hess/gim
-- Jean-Richard Sophie https://github.com/AstroPengu/gim
+- [Falcone Daniele](https://github.com/Dadiccs/gim)
+- [Guante Henriquez Elisabeth](https://github.com/gnteli/gim)
+- [Hess Lorenzo](https://github.com/l0renz0hess/gim)
+- [Jean-Richard Sophie](https://github.com/AstroPengu/gim)
 - Lopopolo Greta
-- Maghetti Simone https://github.com/simonemaghetti
+- [Maghetti Simone](https://github.com/simonemaghetti)
 - Massarotti Emma
-- Mazzola Luca https://github.com/LucaMazzolaa/gim
+- [Mazzola Luca](https://github.com/LucaMazzolaa/gim)
 - Mu Debora
-- Pantani Laura https://github.com/Laura-pantani/gim
+- [Pantani Laura](https://github.com/Laura-pantani/gim)
 - Pini Elisa
-- Previtali Lara https://github.com/LaraPrevitali/gim
-- Ribeiro Marques Sofia https://github.com/SofiaRibeiroMarques/gim
-- Riva Gregorio https://github.com/GregorioRiva/gim
+- [Previtali Lara](https://github.com/LaraPrevitali/gim)
+- [Ribeiro Marques Sofia](https://github.com/SofiaRibeiroMarques/gim)
+- [Riva Gregorio](https://github.com/GregorioRiva/gim)
 - Salmina Arroyo Deborah Mersedes
 - Vigizzi Sira
-- Vosti Riccardo https://github.com/RiccardoVosti/gim
-- Zemp Martina https://github.com/martinazemp/gim
+- [Vosti Riccardo](https://github.com/RiccardoVosti/gim)
+- [Zemp Martina](https://github.com/martinazemp/gim)
