@@ -10,8 +10,8 @@ Filmografia, letture ed esercizi
 4. Motion capture
 
 #### Esempi di motion capture  
-1. [Bio Motion Lab (corpo umano)](https://www.biomotionlab.ca/html5-bml-walker/)  
-2. [p1 200 (piccione)](https://www.biomotionlab.ca/older-projects/)  
+1. [Bio Motion Lab](https://www.biomotionlab.ca/html5-bml-walker/)  
+2. [p1 200](https://www.biomotionlab.ca/wp-content/uploads/2016/01/p1_200.gif)  
 
 #### [Phenakistiscopio](https://it.wikipedia.org/wiki/Fenachistoscopio) (1833)  
 #### [Zoetrope](https://it.wikipedia.org/wiki/Zootropio) (1833)  
@@ -50,10 +50,12 @@ Filmografia, letture ed esercizi
 ## 2. Didattica e scienza  
 
 #### Visible Human Project  
-- [Wikipedia](https://en.wikipedia.org/wiki/Visible_Human_Project)
+- [Male](https://www.youtube.com/watch?v=dPPjUtiAGYs), 1994
+- [Female](https://www.youtube.com/watch?v=3atjsVqFlhs), 1995
 
 #### Ray & Charles Eames  
-- [The Powers of ten](https://www.youtube.com/watch?v=0fKBhvDjuy0&t=1s) , 1977  
+- [Kaleidoscope Jazz Chair](https://www.youtube.com/watch?v=6qLOuikpJcg), 1960
+- [The Powers of ten](https://www.youtube.com/watch?v=0fKBhvDjuy0&t=1s), 1977  
 - [A rough sketch](https://www.youtube.com/watch?v=7f5x_dRKIF4&t=2s), pre 1977?  
 - [Atlas: A Sketch Of The Rise And Fall Of The Roman Empire](https://www.youtube.com/watch?v=dJWke49jyic), 1976  
 - [Polaroid SX-70 Ad](https://www.youtube.com/watch?v=zpv8J8e9gWI), 1970  
@@ -70,6 +72,8 @@ Filmografia, letture ed esercizi
 - [Ornamental Sound Animation](https://www.youtube.com/watch?v=8EGFPZdiVqI), 1930  
 
 #### Martin Arnold  
+- [Pièce Touchée](https://archive.org/details/piece-touchee-1989-by-martin-arnold_202401), 1989
+- [Alone. Life Wastes Andy Hardy](https://www.dailymotion.com/video/x306y9v), 1989
 - [Passage à l'acte](https://vimeo.com/398345542), 1993  
 
 ## 3. Il mondo surreale  
