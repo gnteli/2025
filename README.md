@@ -38,8 +38,8 @@ Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico
 
 ## Link ai progetti
 - Aktas Tuana https://github.com/Tuana-Aktas/gim
-- Baggi Alice
-- Balinzo Giada
+- Baggi Alice https://github.com/alicebaggi/GIM
+- Balinzo Giada https://github.com/giada-balinzo/gim
 - Belli Nahele Armando Bruno
 - Bionda Alissa https://github.com/Ali-0032/gim
 - Borges Pinheiro Gabriel
@@ -51,11 +51,11 @@ Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico
 - Del Rosso Allegra Maria Cristina https://github.com/AllegraDR/gim
 - Esposito Albina
 - Falcone Daniele https://github.com/Dadiccs/gim
-- Guante Henriquez Elisabeth
+- Guante Henriquez Elisabeth https://github.com/gnteli/gim
 - Hess Lorenzo https://github.com/l0renz0hess/gim
 - Jean-Richard Sophie https://github.com/AstroPengu/gim
 - Lopopolo Greta
-- Maghetti Simone 
+- Maghetti Simone https://github.com/simonemaghetti
 - Massarotti Emma
 - Mazzola Luca https://github.com/LucaMazzolaa/gim
 - Mu Debora
