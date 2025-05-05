@@ -2,10 +2,11 @@
 Parallasse
 
 ## Brief
-Creare una scena che sfrutti il parallasse (minimo 3 livelli).
+Creare una scena che sfrutti il parallasse (minimo 3 livelli).  
+Sfruttare il canale alpha delle immagini PNG. 
 
 #### Consegna
-Cartella contenente almeno una scena.
+Cartella contenente almeno una scena.  
 Pubblicare gli esercizi sulla piattaforma GitHub e pubblicare il link a github.io sul file README.md principale per un accesso diretto ai files.  
 
 #### Struttura cartella  
