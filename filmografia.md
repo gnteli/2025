@@ -50,7 +50,8 @@ Filmografia, letture ed esercizi
 ## 2. Didattica e scienza  
 
 #### Visible Human Project  
-- [Wikipedia](https://en.wikipedia.org/wiki/Visible_Human_Project)
+- [Male, 1994](https://www.youtube.com/watch?v=dPPjUtiAGYs)
+- [Female, 1995](https://www.youtube.com/watch?v=3atjsVqFlhs)
 
 #### Ray & Charles Eames  
 - [The Powers of ten](https://www.youtube.com/watch?v=0fKBhvDjuy0&t=1s) , 1977  
