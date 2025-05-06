@@ -1,4 +1,4 @@
-# Esercizio 3B
+# Esercizio 3A
 Pioggia, neve e ping-pong   
 
 ## Brief
