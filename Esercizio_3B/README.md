@@ -1,4 +1,4 @@
-# Esercizio 3A
+# Esercizio 3B
 Che ora è?
 
 ## Brief
